@@ -1,8 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Komal Kharkwal  <br>🎓 Currently pursuing a **Bachelor of Computer Applications (BCA)**  <br>💻 Passionate about **Web Development, Programming, and exploring AI/ML**  <br><br>🧩 I love solving problems, building projects, and continuously learning new technologies  <br>🚀 My goal is to grow as a **Software Developer** and create impactful solutions  <br>
 
-
-## 🌐 Socials:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/komal-kharkwal-ba6b3a33a) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kharkwalkomal69@gmail.com) 
